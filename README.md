@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Yasser Bouchafra</h1>
 <h3 align="center">🚀 Software Engineering Student at Université Laval | Passionate about AI, Full-Stack & Quantum Technologies</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yasserbouchafra&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
