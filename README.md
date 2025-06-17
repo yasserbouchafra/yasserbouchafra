@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yasser Bouchafra</h1>
-<h3 align="center">Software Engineering Student at Université Laval | Passionate about AI, Full-Stack & Quantum Technologies</h3>
+<h3 align="center">Software Engineering Student | Laval University in Canada | ML/DL/DA Specialist</h3>
 
 ---
 
