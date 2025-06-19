@@ -48,6 +48,7 @@
 | [Diabete Prediction ML Model](https://github.com/yasserbouchafra/Diabete-Prediction-ML-Model) | Predict diabetes using health data (PIMA dataset) | `Python`, `ML`, `Pandas`, `Streamlit` |
 | [GitHubAutoPusher](https://github.com/yasserbouchafra/GithubAutoPusher) | GUI tool to auto-publish projects to GitHub | `Python`, `Tkinter`, `GitPython` |
 | [Customer Analysis ML Model](https://github.com/yasserbouchafra/Customer-Analysis-ML-Model) | Analyze and predict customer behavior from sales data | `Python`, `Pandas`, `ML`, `Streamlit` |
+| [Sentinel-CV](https://github.com/yasserbouchafra/Sentinel-CV) | Autonomous Workstation Guardian | `Python`, `OpenCV`, `Numpy`, `xdg-utils` |
 
 > ✨ More at: [github.com/yasserbouchafra](https://github.com/yasserbouchafra?tab=repositories)
 
