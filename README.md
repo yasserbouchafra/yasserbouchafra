@@ -52,7 +52,7 @@
 | [GitHubAutoPusher](https://github.com/yasserbouchafra/GithubAutoPusher) | GUI tool to auto-publish projects to GitHub | `Python`, `Tkinter`, `GitPython` |
 | [Customer Analysis ML Model](https://github.com/yasserbouchafra/Customer-Analysis-ML-Model) | Analyze and predict customer behavior from sales data | `Python`, `Pandas`, `ML`, `Streamlit` |
 | [Sentinel-CV](https://github.com/yasserbouchafra/Sentinel-CV) | Autonomous Workstation Guardian | `Python`, `OpenCV`, `Numpy`, `xdg-utils` |
-| [MA-ALPR-Engine](https://github.com/yasserbouchafra/MA-ALPR-Engine) | A high-accuracy ALPR system | `Python`, `YoloV8`, `Numpy`, `OpenCV` |
+| [MA-ALPR-Engine](https://github.com/yasserbouchafra/MA-ALPR-Engine) | A high-accuracy ALPR system | `Python`, `YoloV8`, `Numpy`, `OpenCV`, 'ultralytics', 'pandas', 'pyyaml', 'gradio' |
 
 > ✨ More at: [github.com/yasserbouchafra](https://github.com/yasserbouchafra?tab=repositories)
 
